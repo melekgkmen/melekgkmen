@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @melekgkmen
-- 👀 I’m interested in yazılım
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on 
-- 📫reach me melek.gkmen@gmail.com
-
-<!---
-melekgkmen/melekgkmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Merhaba ! Ben Melek Gökmen, back-end geliştirici olarak ağırlıklı web uygulamarı üzerinde çalışıyorum. Bilgi alanlarım arasında C#, ASP.NET, MSSQL Server, MongoDB, MySQL gibi veritabanları bulunuyor. Ayrıca HTML, CSS ile ön yüz geliştirme deneyimim de var. N-Tier Architecture ve Microservices mimarileri ile projeler geliştiriyorum ve Docker ile container yönetimi konusunda çalışıyorum. RabbitMQ ve SignalR gibi mesajlaşma ve gerçek zamanlı iletişim sistemleri ile de uygulama geliştiriyorum. 
+Özellikle MVC yapısına dayalı web uygulamaları mikroservis tabanlı projelerde tecrübem var. Açık kaynak projelerde katkıda bulunmayı seviyor ve sürekli yeni teknolojiler öğrenmeye çalışıyorum.
